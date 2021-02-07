@@ -15,6 +15,9 @@ This is an ongoing work.
 
 ## Tech Stack
 **Backend** Node.js, Express and MongoDB
+
 **Frontend** React
+
 **Movies and TV Shows Data** TheMovieDB API
+
 **Hosting** Heroku
