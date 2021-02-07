@@ -1,0 +1,27 @@
+.static-page {
+    color: #2D1A03;
+}
+
+.static-page a {
+    text-decoration: underline;
+}
+
+.static-page h2 {
+    color: #905825;
+    font-weight: 800;
+    font-size: 1.25rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.static-page p {
+    padding-top: 0;
+    margin-top: 0;
+    font-weight: 300;
+}
+
+.static-page ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}

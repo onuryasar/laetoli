@@ -1,0 +1,13 @@
+.main-header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  z-index: 5;
+}
+
+@media (min-width: 768px) {
+  .main-header {
+    justify-content: space-between;
+  }
+}

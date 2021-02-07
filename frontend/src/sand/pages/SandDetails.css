@@ -1,0 +1,38 @@
+.sand-details__main {
+    display: flex;
+}
+
+.sand-detail__poster {
+    width: 360px;
+    margin-right: 2.5rem;
+    flex: 1;
+}
+
+.sand-detail__description {
+    flex: 2;
+}
+
+.sand-detail__poster img {
+    max-width: 100%;
+    display: block;
+}
+
+.sand-details__main h2 {
+    font-size: 1.2rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.sand-details__main p {
+    margin: 0;
+}
+
+span.number-of-seasons {
+    display: inline-block;
+    margin-left: 2rem;
+}
+
+.movie-details .sand-detail__poster {
+    position: relative;
+    margin-bottom: 5rem;
+}

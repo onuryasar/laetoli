@@ -1,0 +1,33 @@
+.search-results-list li {
+    flex: 0 0 50%;
+    display: flex;
+    padding: 0 2.5rem 2.5rem 0;
+}
+
+.search-results-list__item-image {
+    margin-right: 1.5rem;
+}
+
+.search-results-list__item-description h2 {
+    margin: 0;
+    padding: 0 0 0.5rem 0;
+    font-size: 1.85rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.search-results-list__item-description p {
+    padding: 0;
+    margin: 2rem 0;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.search-results-list__item-description a.episode-list-button {
+    font-size: 1rem;
+    background: transparent;
+    border: none;
+    color: #007F0D;
+    text-decoration: underline;
+    font-weight: 700;
+}

@@ -1,0 +1,27 @@
+.season-titles,
+.season-episodes-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-flow: wrap;
+}
+
+.season-titles {
+    margin: 3rem 0 1.5rem 0;
+    font-size: 1.5rem;
+    color: #C0C0C0;
+    font-weight: 700;
+}
+
+.season-titles li {
+    margin-right: 2rem;
+}
+
+.season-titles li.selected {
+    color: #000000;
+}
+
+.season-titles li span {
+    cursor: pointer;
+}

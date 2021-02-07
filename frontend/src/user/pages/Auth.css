@@ -1,0 +1,28 @@
+.authentication__header {
+    color: white;
+    text-align: center;
+}
+
+.authentication {
+    width: 90%;
+    max-width: 25rem;
+    margin: 7rem auto;
+    text-align: left;
+}
+
+.authentication form {
+    margin-bottom: 1rem;
+}
+
+.authentication hr {
+    border-top: 1px solid #C0C0C0;
+    border-bottom: none;
+}
+
+.authentication h2 {
+    /* color: #007F0D; */
+}
+
+.authentication label {
+    /* color: #905825; */
+}

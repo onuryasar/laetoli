@@ -1,0 +1,49 @@
+.season-episodes-list__item {
+    width: 25%;
+    padding-right: 1rem;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.season-episodes-list__item img {
+    max-width: 100%;
+    display: block;
+}
+
+.season-episodes-list__item h4 {
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
+    margin-top: 0.75rem;
+    line-height: 1;
+}
+
+.season-episodes-list__item p {
+    font-size: 0.8rem;
+    margin-top: 0;
+}
+
+.season-episodes-list__item .footprint-block {
+    /* position: absolute; */
+
+}
+
+.season-episodes-list__item .episode-still {
+    position: relative;
+    min-height: 100px;
+}
+
+.season-episodes-list__item .episode-still h3 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 0.75rem;
+    font-weight: 400;
+    width: 100%;
+    color: #FFFFFF;
+    background: linear-gradient(360deg, rgba(0, 0, 0, 0.75), transparent);
+    padding: 2rem 0.75rem 0.5rem 0.75rem;
+    text-shadow: 0px 0px 2px #000;
+}

@@ -1,0 +1,41 @@
+.footprint-record,
+.footprint-button {
+    width: 100%;
+    height: 2rem;
+    margin-top: 0.1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footprint-record {
+    background: rgba(0, 0, 0, 0.05);
+    font-size: 0.75rem;
+    line-height: 1;
+    border: 1px solid #C0C0C0;
+    border-top: none;
+}
+
+.footprint-record__title {
+    color: #007F0D;
+}
+
+.footprint-record__date {
+    font-family: Courier, Courier New, monospace;
+    font-weight: bold;
+    color: #905825;
+}
+
+.footprint-button button {
+    background: #007F0D;
+    color: #FFFFFF;
+    font-size: 0.7rem;
+    display: inline-block;
+    padding: 0.4rem 0.75rem;
+    text-decoration: none;
+    font-weight: 400;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+}

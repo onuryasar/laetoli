@@ -1,0 +1,28 @@
+.search-form {
+    width: 360px;
+    text-align: center;
+    margin: 10rem auto;
+    font-size: 1.2rem;
+}
+
+.search-form input#query {
+    padding: 0.75rem;
+}
+
+.search-form-with-results-enter {
+    margin: 1rem auto;
+}
+
+.search-form-with-results-enter-done {
+    margin: 10rem auto;
+    transition: all 200ms;
+}
+
+.search-form-with-results-exit {
+    margin: 10rem auto;
+}
+
+.search-form-with-results-exit-done {
+    margin: 1rem auto 3rem auto;
+    transition: all 200ms;
+}

@@ -1,0 +1,40 @@
+.cast-list__item {
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    margin-right: 1rem;
+    position: relative;
+}
+
+.cast-list__item img {
+    max-width: 100%;
+    display: block;
+}
+
+.cast-list__name {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: #FFFFFF;
+    text-align: right;
+    background: linear-gradient(360deg, rgba(0, 0, 0, 0.75), transparent);
+    padding: 2rem 0.75rem 0.5rem 0.75rem;
+    text-shadow: 0px 0px 2px #000;
+}
+
+.cast-list__name h3,
+.cast-list__name h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 0.8rem;
+}
+
+.cast-list__name h3 {
+    font-weight: 700;
+    padding: 0;
+}
+
+.cast-list__name h4 {
+    font-weight: 400;
+    padding: 0;
+}
