@@ -18,6 +18,8 @@ This is an ongoing work.
 
 **Frontend** React
 
+**Database** Firebase
+
 **Movies and TV Shows Data** TheMovieDB API
 
 **Hosting** Heroku
